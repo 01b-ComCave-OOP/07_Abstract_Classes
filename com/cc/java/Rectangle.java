@@ -15,9 +15,4 @@ public class Rectangle extends Shape{
         return height * width;
     }
 
-    
-
-
-
-
 }
