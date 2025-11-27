@@ -22,6 +22,8 @@ public class App {
         output("Diff. c-t: " + areaDiff(circle, triangle));
         output("Diff. t-t: " + areaDiff(triangle, triangle));
 
+        /* Das geht jetzt nicht mehr ... Abstraktion */ 
+        // Shape shape = new Shape();
 
     }
 
